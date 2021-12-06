@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         //わからないよ
         //ブランチ切ってみた
+        //git 接続テスト
     }
 
 
